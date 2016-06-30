@@ -1,1 +1,11 @@
 D:\Programs\PolyGolf\Source\PolyGolf\PolyGolf\bin\Debug\PolyGolf.exe.config
+D:\Programs\PolyGolf\Source\PolyGolf\bin\Debug\PolyGolf.exe.config
+D:\Programs\PolyGolf\Source\PolyGolf\bin\Debug\PolyGolf.exe
+D:\Programs\PolyGolf\Source\PolyGolf\bin\Debug\PolyGolf.pdb
+D:\Programs\PolyGolf\Source\PolyGolf\obj\Debug\PolyGolf.csprojResolveAssemblyReference.cache
+D:\Programs\PolyGolf\Source\PolyGolf\obj\Debug\PolyGolf.Properties.Resources.resources
+D:\Programs\PolyGolf\Source\PolyGolf\obj\Debug\PolyGolf.csproj.GenerateResource.Cache
+D:\Programs\PolyGolf\Source\PolyGolf\obj\Debug\PolyGolf.exe
+D:\Programs\PolyGolf\Source\PolyGolf\obj\Debug\PolyGolf.pdb
+D:\Programs\PolyGolf\Source\PolyGolf\bin\Debug\OpenGL.Net.dll
+D:\Programs\PolyGolf\Source\PolyGolf\obj\Debug\PolyGolf.fMain.resources
